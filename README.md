@@ -1,7 +1,7 @@
 # Xin chào! :wave::smiley: 🐶
 
 <a href="#" target="_blank">
-  <img src="svg/horob1.svg" width="1200" alt="horob1-official" />
+  <img src="svg/phong.svg" width="1200" alt="phong-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -42,13 +42,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horob1&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ntphong404&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=horob1&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntphong404&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=horob1&theme=gruvbox&hide_border=false)
+![GitHub Stats](https://streak-stats.demolab.com?user=ntphong404&theme=gruvbox&hide_border=false)
 
-![](https://komarev.com/ghpvc/?username=horob1&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=ntphong404&style=for-the-badge)
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
