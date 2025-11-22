@@ -22,7 +22,7 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .horob1-signature {
+        .signature {
           font-size: 16px;
         }
 			</style>
@@ -30,7 +30,7 @@
 			<div class="container">
         <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
         <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay vẫn là một bản sao của ngày hôm qua?"</div>
-        <div class="horob1-signature">- Horob1 - A dog and a dev 🐶 -</div>
+        <div class="signature">- ntphong404 - A dog and a dev 🐶 -</div>
       </div>
 		</div>
 	</foreignObject>
